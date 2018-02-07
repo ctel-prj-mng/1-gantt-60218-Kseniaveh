@@ -1,4 +1,5 @@
 Диаграмма Гантта для корпоративного сайта: "Служба курьерской доставки CDEK"
+
 Диграмма Гантта представлена ниже:
 ![alt text](https://github.com/ctel-prj-mng/1-gantt-60218-Kseniaveh/blob/master/plan.jpg)
 
